@@ -15,7 +15,7 @@ public class Data{
              age[i]=sc.nextInt();
             System.out.print("Enter Name = ");
              name[i]=sc.next();
-            System.out.print("Enter Salary is sumit = ");
+            System.out.print("Enter Salary = ");
             salary[i]=sc.nextInt();
         }
         System.out.println("Name "+" Age "+" Salary");
